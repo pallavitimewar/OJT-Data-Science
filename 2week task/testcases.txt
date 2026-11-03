@@ -1,0 +1,51 @@
+========================================
+       STUDENT GRADE CALCULATOR
+             TEST CASES
+========================================
+
+Test Case 1: Invalid Marks
+
+Input:
+Student Name: Pallavi
+Marks: 120
+
+Expected Output:
+Invalid marks! Enter marks between 0 and 100.
+
+Status: PASS
+
+
+----------------------------------------
+
+Test Case 2: Invalid Input
+
+Input:
+Student Name: Pallavi
+Marks: abc
+
+Expected Output:
+Invalid input! Please enter numbers only.
+
+Status: PASS
+
+
+----------------------------------------
+
+Test Case 3: Valid Marks
+
+Input:
+Student Name: Pallavi
+Marks: 98
+
+Expected Output:
+RESULT FOR PALLAVI
+Marks: 98/100
+Grade: A
+Message: Excellent work! Keep shining!
+
+Status: PASS
+
+
+========================================
+             END OF TEST CASES
+========================================
