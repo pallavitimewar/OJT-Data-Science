@@ -1,0 +1,7 @@
+OrderID,OrderDate,Product,Category,Quantity,Price,Customer
+O001,2026-01-01,Laptop,Electronics,2,50000,Rahul
+O002,2026-01-02,Mouse,Accessories,5,500, Sneha
+O003,2026-01-03,Keyboard,Accessories,3,1500,Amit
+O004,2026-01-04,Laptop,Electronics,1,50000,Priya
+O005,2026-01-05,Mouse,Accessories,2,500,
+O005,2026-01-05,Mouse,Accessories,2,500,
